@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Meh Trajectory
+## Author: Meh321
+## Notes: Displays a line showing your trajectory on the world map
+## Version: 1
+
+MehTrajectory.lua
